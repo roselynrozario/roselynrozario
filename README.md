@@ -8,6 +8,17 @@
 <!-- GitHub Roadmap -->
 ## 🗺️ GitHub Roadmap
 
+<!-- Repositories for Various Data Domains -->
+### Repositories for Various Data Domains
+- 🧠 [Artificial Intelligence and Intelligent Systems](https://github.com/roselynrozario/Artificial-Intelligence-and-Intelligent-Systems)
+- 🔧 [Data Engineering](https://github.com/roselynrozario/Data-Engineering)
+- 📊 [Data Visualizations and Business Intelligence](https://github.com/roselynrozario/Data-Visualization-and-Business-Intelligence)
+- 🤖 [Machine Learning](https://github.com/roselynrozario/Machine-Learning)
+- 💡 [Marketing Analytics and Data Science Solutions](https://github.com/roselynrozario/Marketing-Analytics-and-Data-Science-Solutions)
+- 📈 [Statistical Modelling](https://github.com/roselynrozario/Statistical-Modelling)
+- 💬 [Natural Language Processing](https://github.com/roselynrozario/Natural-Language-Processing)
+
+<!-- Academic Projects -->
 ### Academic Projects
 - **Algorithmic Marketing:** [Marketing Strategies for XYZ E-Commerce Company](https://github.com/roselynrozario/E-Commerce-Marketing-Strategies)<sup><a href="#footnote1">[1]</a></sup>
 - **Conversational AI Research Capstone:** [CogniEdu: AI-Powered Academic Planning for Student Success](https://github.com/roselynrozario/CogniEdu)<sup><a href="#footnote1">[1]</a></sup>
@@ -15,7 +26,7 @@
 - **Econometrics:** [Batting Averages in Cricket](https://github.com/roselynrozario/Batting-Averages-in-Cricket)<sup><a href="#footnote2">[2]</a></sup>
 - **Real-Time Intelligent Systems:** [Designing a Real-Time Stock Trading System](https://github.com/roselynrozario/Real-Time-Stock-Trading-System)<sup><a href="#footnote1">[1]</a></sup>
 - **Linear and Non-Linear Models:** [Gym Member Churn Analysis](https://github.com/roselynrozario/Gym-Membership-Churn-Analysis)<sup><a href="#footnote1">[1]</a></sup>
-- **Machine Learning:** [Anomaly Detection in Stocks](https://github.com/roselynrozario/Anomaly-Detection-in-Stocks)<sup><a href="#footnote2">[2]</a></sup>
+- **Machine Learning and Predictive Analytics:** [Anomaly Detection in Stocks](https://github.com/roselynrozario/Anomaly-Detection-in-Stocks)<sup><a href="#footnote2">[2]</a></sup>
 - **Time Series Analysis and Forecasting:** [Air Quality Trends](https://github.com/roselynrozario/Air-Quality-Trends)<sup><a href="#footnote1">[1]</a></sup>
 
 <!-- Technical Skills -->
