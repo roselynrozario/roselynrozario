@@ -30,7 +30,7 @@
 - **Time Series Analysis and Forecasting:** [Air Quality Trends](https://github.com/roselynrozario/Air-Quality-Trends)<sup><a href="#footnote1">[1]</a></sup>
 
 <!-- Technical Skills -->
-## 💻 Technical Skills
+## 💻 Technical Stack
 
 | **Category**                        | **Tool(s)**                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -50,7 +50,9 @@
 | **Programming Languages**           | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-39477F?style=for-the-badge&logo=SQL&logoColor=white)  |
 | **Process Visualization and Management** | ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) <img width="83" alt="Eraser" src="https://github.com/user-attachments/assets/fa685bf1-901c-4dec-b78c-a1afe60d2ecb">                                                                                                           |
 | **Project Management**              | ![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE?style=for-the-badge&logo=ClickUp&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <img width="106" alt="monday.com" src="https://github.com/user-attachments/assets/8a16a140-9b85-4e69-96a9-10ca530900f7"> <img width="84" alt="Planview PPM Pro" src="https://github.com/user-attachments/assets/0365ea7b-bc8c-40cf-bc69-e0907b3e455b"> ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)                         |  
+| **Search Engine Optimization (SEO)**              | ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white) |
 | **Statistical Analysis**              | ![Stata](https://img.shields.io/badge/Stata-blue?style=for-the-badge&logo=Stata&logoColor=white) |  
+| **Tag Management**     | ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white) |
 | **Training Development Software**     | ![Articulate 360](https://img.shields.io/badge/Articulate_360-79ccf5?style=for-the-badge&logo=Articulate_360) ![KnowBe4](https://img.shields.io/badge/KnowBe4-F06723?style=for-the-badge&logo=KnowBe4)  |
 | **Workflow Automation** | ![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0066FF?style=for-the-badge&logo=Power%20Automate&logoColor=white) |
 
@@ -61,7 +63,6 @@
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Content Management System**       | ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
 | **Marketing**              | ![Emma Email Marketing](https://img.shields.io/badge/Emma_Email_Marketing-black?style=for-the-badge&logo=Emma-Email-Marketing&logoColor=white) | 
-| **Search Engine Optimization (SEO)**              | ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white) |
 
 
 ---
